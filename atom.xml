@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chenghankuo.github.io/"/>
-  <updated>2016-08-12T10:33:06.000Z</updated>
+  <updated>2016-08-15T08:51:39.000Z</updated>
   <id>https://chenghankuo.github.io/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="https://chenghankuo.github.io/2016/08/12/Introduce/"/>
     <id>https://chenghankuo.github.io/2016/08/12/Introduce/</id>
     <published>2016-08-12T12:46:25.000Z</published>
-    <updated>2016-08-12T10:33:06.000Z</updated>
+    <updated>2016-08-15T08:51:39.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h2><blockquote>
+    <content type="html"><![CDATA[<p><img src="/uploads/20160407_suitbanner.jpg" alt="ChengHan&#39;s Avatar" title=" This is tilte"></p>
+<h2 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h2><blockquote>
 <p>It now or never!</p>
 </blockquote>
 <h1 id="Introduce"><a href="#Introduce" class="headerlink" title="Introduce"></a>Introduce</h1><p>My name is ChengHan Kuo. It’s my pleasure to meet you all. </p>
@@ -30,9 +31,8 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Overview&quot;&gt;&lt;a href=&quot;#Overview&quot; class=&quot;headerlink&quot; title=&quot;Overview&quot;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;It now or never!&lt;/p&gt;
-&lt;/blockquote
+      &lt;p&gt;&lt;img src=&quot;/uploads/20160407_suitbanner.jpg&quot; alt=&quot;ChengHan&amp;#39;s Avatar&quot; title=&quot; This is tilte&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Overview&quot;&gt;&lt;a href=&quot;#Overview&quot;
     
     </summary>
     
